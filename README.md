@@ -2,5 +2,5 @@
 
 ## Seções:
 - projetos-academicos
-- documentacao
+- projeto inicial
 - colaboracao
